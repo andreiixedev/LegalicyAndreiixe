@@ -1,0 +1,133 @@
+Bulid 500
+-Ended Support Legalicy Andreiixe
+-Updated Copyrite Andreiixe Dev ---> PikaDev
+
+Build 490.6
+-fixed bug dashboard Tester
+
+Build 490.5
+-added dashboard Tester
+
+Build 490
+-Update database
+-Added role
+-added Dashboard ADMIN
+-added for admin GuestBook
+-fixed bug admin on guestbook page
+
+Build 470.5
+-fixed bug search friend (user)
+
+Build 470.4
+-updated search friend (user) Beta 2 ----> Beta 3
+-added beta GuestBook
+-updated colors Login and registration
+-updated Login and registration buttons
+
+Build 470
+-Fix Exploit SQL injection
+-Improve security
+-Edited Username to name
+-added login name
+-updated search friend (user) Beta 1 ----> Beta2
+-fixed bug in Biography
+-Updated logo
+-updated buttons
+
+Build 444.1.9
+-Rebuild php files
+-Added User id
+-Fixed bugs
+-fixed redirect
+-added search user
+
+Build 444
+-added profile page
+-added Biography
+-added Edit Username
+-added edit avatar
+-removed home button
+-edited logo to redirect to home
+-Updated ad
+-removed IE ad
+
+Build 400.2.1
+-added at iregistration can put your image profile
+-fixed bugs on index, support,devblog.
+-updated Database for enter the profile image
+-removed extension php form top bar
+-added automatic Date 
+
+Build 400.1.5
+-Fixed Login to work windows 3.11
+-added new tag on registration not support windows 3.11
+-fixed Bugs
+
+Build 400.1
+-Updated Blog
+-Added login in the enter of the website
+-Added registration
+-Added Prevention enter in the website in olther links
+-Added session cokie
+-Updated website in PHP
+-Deleted Old Blog
+Build 311.5.3
+-Updated Blog link (to new stuff)
+-Updated Blog
+-Updated Link Bitview
+-updated comments index.html
+
+Build 311.5.1
+-Developer Blog release
+-Updated link updates
+
+Build 311.5
+-Added new social links
+-corect spelling on links
+-added new links on links.html
+-update title on contact from Instant messengers
+-added a new things new3.gifs
+
+Build 311.4
+-Delete logo link (Blog)
+-Delete My News from Support
+-Fix Bugs Host Link
+
+Build 311.1
+-Updated bar gifs
+-updated ie ad
+-updated bar secondary link "support"
+-added link to source code website
+-updated build
+
+Build 311
+-updated index
+-updated links
+-added link to andreiixe Kindle (working progress)
+-updated home button to new style
+-added ati driver link parts (host problem)
+-updated blog
+
+Build 310
+-Updated links
+-Added support for IBM ThinkPad R51/R51e
+-Update storage files txt to src/txt
+-updates links
+-Support page contain 
+ ->Download links on legalicy servers
+ -> Bugs windows 8 build 7850
+ -> install graphics
+
+Build 300
+-Rebuild The Website
+-Updated style
+-Updated index, blog, links
+-Added About the project
+-Rebuild code Website
+-New Ad style
+-Added Feedback
+-Added Link to Us
+-Added Contact Andreiixe
+-Added Team
+-New Images
+-Added legalicy blog
